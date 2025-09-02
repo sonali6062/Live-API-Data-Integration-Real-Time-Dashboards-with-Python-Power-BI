@@ -72,7 +72,7 @@ python scripts/fetch_data.py
 
 ## 📊 Example Dashboard
 
-*(Insert screenshot of your Power BI dashboard here)*
+
 
 ---
 
@@ -104,12 +104,3 @@ git push origin feature-name
 
 ---
 
-## 📜 License
-
-```bash
-This project is licensed under the MIT License.
-```
-
----
-
-Would you like me to also add a **sample `requirements.txt`** section in the README (with `pandas`, `requests`, etc.) so that others can install dependencies easily?
